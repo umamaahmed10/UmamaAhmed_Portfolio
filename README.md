@@ -21,34 +21,36 @@ I am a Data Analyst and passionate about Analysing and Visualizing Data as said,
 -	Customer Commute (how much the distance matters for purchasing a bike)  
 >> Skills: Data Sorting & Cleaning, Pivot Tables, Advanced Conditional Formatting, Graphs and Charts, Slicer, Data Formatting, Manipulate date, time, text, and arrays.  
 
+  
 ### [Call Center Budget Analysis]()
-•	_Software: Microsoft Excel_
-•	Objective: Examine the budget of the call centre and extract insights on its performance, as well as to identify potential improvements that can be implemented.
-•	Dataset: The dataset is downloaded from ‘Real World Fake Data’ [dataworld](https://data.world/login?next=%2Fmarkbradbourne%2Frwfd-real-world-fake-data%2Fworkspace%2Ffile%3Ffilename%3DCall%2BCenter.csv). This call-center dataset has over 32,900 records of data that describes calls made to various call centres. It includes the ID of the call and many other attributes.
-•	Description: Performed data sorting & cleaning. Filtered data according to the requirements, extracted date as a number out of dates, and created pivot tables and visualization charts.
-•	Output:
->	Average Customer Satisfaction Score & Average Call Duration In Minutes
->	Line Chart (trend of calls during October)
->	Doughnut Chart (through which channel the call was made)
->	Column Chart (reason the person called)
->	Bar Chart (indication the response time)
+•	_Software: Microsoft Excel_  
+•	Objective: Examine the budget of the call centre and extract insights on its performance, as well as to identify potential improvements that can be implemented.  
+•	Dataset: The dataset is downloaded from ‘Real World Fake Data’ [dataworld](https://data.world/login?next=%2Fmarkbradbourne%2Frwfd-real-world-fake-data%2Fworkspace%2Ffile%3Ffilename%3DCall%2BCenter.csv). This call-center dataset has over 32,900 records of data that describes calls made to various call centres. It includes the ID of the call and many other attributes.  
+•	Description: Performed data sorting & cleaning. Filtered data according to the requirements, extracted date as a number out of dates, and created pivot tables and visualization charts.  
+•	Output:  
+-	Average Customer Satisfaction Score & Average Call Duration In Minutes  
+-	Line Chart (trend of calls during October)  
+-	Doughnut Chart (through which channel the call was made)  
+-	Column Chart (reason the person called)  
+-	Bar Chart (indication the response time)  
 >> Skills: Cleaning & Transforming data, Managing data, Pivot tables with Slicers, VLOOKUP and XLOOKUP, Data Formatting (date, time, arrays), Interactive Dashboard.
 
+  
 
 
 ### [Data Specialist Survey Breakdown]()
-•	_Software: Microsoft Power BI_
+•	_Software: Microsoft Power BI_  
 •	Objective: To determine the average salary and various aspects of a particular job of Data Specialists.
-•	Dataset: The non- integrated data is collected through a survey from 5 countries asking different question about their Job, Salary, Gender, Age, and Happiness with Work/Life balance.
-•	Description: Cleaned and Sorted the data by removing duplicates, misspell, identifying incorrect values & transforming the data using Microsoft Power BI, split columns, Power query, formatting data types to create different charts to analyse data.
-•	Output: A Power BI report that shows according to the Survey,
->	The average salary in United State of Data Analyst is $80,000.
->	On Average people are 5.7% happy with their work-life balance and 4.2% happy with their salary.
->	The favourite Programming language of 55% Data Analyst is Python Programming.
->	On Average, 25% of people find difficult to break into data. 
->>	Skills: Power Query, Data Visualization, Power BI DAX, Power BI Visuals/Charts, Visual Analytic.
+•	Dataset: The non- integrated data is collected through a survey from 5 countries asking different question about their Job, Salary, Gender, Age, and Happiness with Work/Life balance.  
+•	Description: Cleaned and Sorted the data by removing duplicates, misspell, identifying incorrect values & transforming the data using Microsoft Power BI, split columns, Power query, formatting data types to create different charts to analyse data.  
+•	Output: A Power BI report that shows according to the Survey,  
+	The average salary in United State of Data Analyst is $80,000.  
+	On Average people are 5.7% happy with their work-life balance and 4.2% happy with their salary.  
+	The favourite Programming language of 55% Data Analyst is Python Programming.  
+	On Average, 25% of people find difficult to break into data.  
+>>	Skills: Power Query, Data Visualization, Power BI DAX, Power BI Visuals/Charts, Visual Analytic.  
 
-
+  
 
 ### [Financial Data Analysis]()
 •	_Software: Microsoft Power BI_
