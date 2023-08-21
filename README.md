@@ -11,15 +11,15 @@ I am a Data Analyst and passionate about Analysing and Visualizing Data as said,
 ## Projects
 
 ### [Factors Affecting the Bike Purchased]()
-•	_Software: Microsoft Excel_
-•	Objective: To determine what factors affect the people purchasing a bike.
-•	Dataset: The [dataset]() consists of 1027 records of the people and their different attributes (like they own a house or car, etc.) who have purchased a bike from a certain company or not. 
-•	Description: Created a separate worksheet to clean and format the data, deleting duplicates and empty rows, correcting spells, using the Text to Column feature and Fill Handle, filtering and changing data format to create and analyse Pivot tables and slicers.
-•	Output: Dashboard that shows visualization of, 
-> Average Income per purchase (Males who purchased bike has high income than of Females who purchased bike) 
->	Customer Age Range (Middle aged people are likely to purchase more bike as compared to old and young.)
->	Customer Commute (how much the distance matters for purchasing a bike)
->> Skills: Data Sorting & Cleaning, Pivot Tables, Advanced Conditional Formatting, Graphs and Charts, Slicer, Data Formatting, Manipulate date, time, text, and arrays.
+•	_Software: Microsoft Excel_  
+•	Objective: To determine what factors affect the people purchasing a bike.  
+•	Dataset: The [dataset]() consists of 1027 records of the people and their different attributes (like they own a house or car, etc.) who have purchased a bike from a certain company or not.  
+•	Description: Created a separate worksheet to clean and format the data, deleting duplicates and empty rows, correcting spells, using the Text to Column feature and Fill Handle, filtering and changing data format to create and analyse Pivot tables and slicers.  
+•	Output: Dashboard that shows visualization of,  
+- Average Income per purchase (Males who purchased bike has high income than of Females who purchased bike)  
+-	Customer Age Range (Middle aged people are likely to purchase more bike as compared to old and young.)  
+-	Customer Commute (how much the distance matters for purchasing a bike)  
+>> Skills: Data Sorting & Cleaning, Pivot Tables, Advanced Conditional Formatting, Graphs and Charts, Slicer, Data Formatting, Manipulate date, time, text, and arrays.  
 
 ### [Call Center Budget Analysis]()
 •	_Software: Microsoft Excel_
