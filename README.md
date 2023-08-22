@@ -4,14 +4,14 @@
 >> Hello! Glad to see you here. This repository keeps track of my personal projects I have worked on. 
 
 ## About Me!
-I am a Data Analyst and passionate about Analysing and Visualizing Data as said, _A picture says more than a thousand words_. I believe the most expensive thing in this world is *Data*. I completed my Masters in _Data Science_ from NED University of Engineering & Technology in Feb, 2023. The thrill of discovering insights from data to solve complex problems and visualize data provides me pride and satisfaction. I am eager to continuously advance my skills and learn new technologies and bring my technical skills into the field of Data Specialization.
+I am a Data Analyst and passionate about Analysing and Visualizing Data as said, _A picture says more than a thousand words_. I believe the most expensive thing in this world is *Data*, from which I love building cool things! I completed my Masters in _Data Science_ from NED University of Engineering & Technology in Feb, 2023. The thrill of discovering insights from data to solve complex problems and visualize information provides me pride and satisfaction. I am eager and excited to keep learning new methods in a challenging & fast-paced environment.  
 
 ***
 
 ## Projects
 
 ### [Factors Affecting the Bike Purchased](Bike_Purchased_Excel_Project.xlsx)
-•	_Software: Microsoft Excel_  
+•	_**Software:** Microsoft Excel_  
 •	**Objective:** To determine what factors affect the people purchasing a bike.  
 •	**Dataset:** The dataset consists of 1027 records of the people and their different attributes (like they own a house or car, etc.) who have purchased a bike from a certain company or not.  
 •	**Description:** Created a separate worksheet to clean and format the data, deleting duplicates and empty rows, correcting spells, using the Text to Column feature and Fill Handle, filtering and changing data format to create and analyse Pivot tables and slicers.  
@@ -23,7 +23,7 @@ I am a Data Analyst and passionate about Analysing and Visualizing Data as said,
 
   
 ### [Call Center Budget Analysis](CallCenterBudgetExcelProject.xlsx)
-•	_Software: Microsoft Excel_  
+•	_**Software:** Microsoft Excel_  
 •	**Objective:** Examine the budget of the call centre and extract insights on its performance, as well as to identify potential improvements that can be implemented.  
 •	**Dataset:** The dataset is downloaded from ‘Real World Fake Data’ [dataworld](https://data.world/login?next=%2Fmarkbradbourne%2Frwfd-real-world-fake-data%2Fworkspace%2Ffile%3Ffilename%3DCall%2BCenter.csv). This call-center dataset has over 32,900 records of data that describes calls made to various call centres. It includes the ID of the call and many other attributes.  
 •	**Description:** Performed data sorting & cleaning. Filtered data according to the requirements, extracted date as a number out of dates, and created pivot tables and visualization charts.  
@@ -39,7 +39,7 @@ I am a Data Analyst and passionate about Analysing and Visualizing Data as said,
 
 
 ### [Data Specialist Survey Breakdown](Data_Specialist_Survey_Breakdown_PowerBI.pbix)
-•	_Software: Microsoft Power BI_  
+•	_**Software:** Microsoft Power BI_  
 •	**Objective:** To determine the average salary and various aspects of a particular job of Data Specialists.
 •	**Dataset:** The non- integrated data is collected through a survey from 5 countries asking different question about their Job, Salary, Gender, Age, and Happiness with Work/Life balance.  
 •	**Description:** Cleaned and Sorted the data by removing duplicates, misspell, identifying incorrect values & transforming the data using Microsoft Power BI, split columns, Power query, formatting data types to create different charts to analyse data.  
@@ -53,7 +53,7 @@ I am a Data Analyst and passionate about Analysing and Visualizing Data as said,
   
 
 ### [Financial Data Analysis](FianancialDataAnalysisReport.pbix)
-•	_Software: Microsoft Power BI_  
+•	_**Software:** Microsoft Power BI_  
 •	**Objective:** To generate the Revenue Analysis Report of financial data of a company.  
 •	**Dataset:** The 3264 [data](FinancialDataAnalysis_DataSet.xlsx) values contains all the sales representatives along with their names, gender, transactions, stores and other features from 2019 to 2020.  
 •	**Description:** Cleaned and filtered the data using DAX and created different measures according to the requirement of the analysis report.  
@@ -67,7 +67,7 @@ I am a Data Analyst and passionate about Analysing and Visualizing Data as said,
 
 
 ### [Suicide Rates Overview 1960-2016 EDA](SuicideRatesOverviewEDA_Python.ipynb)
-•	_Software: Jupyter Notebook (Python)_  
+•	_**Software:** Jupyter Notebook (Python)_  
 •	**Objective:**   
 	Analyse the suicide rate of sex, the age groups and generation and plot the rank of suicide rate.  
 	Understand the distribution of the suicide rate by performing Exploratory Data Analysis (EDA).  
@@ -84,7 +84,7 @@ I am a Data Analyst and passionate about Analysing and Visualizing Data as said,
 
 
 ### [Login Form using Python Flask Framework]([https://github.com/umamaahmed10/PythonLoginForm](https://github.com/umamaahmed10/PythonLoginForm.git))
-•	_Software: Visual Studio Code_  
+•	_**Software:** Visual Studio Code_  
 •	**Goal:** Create a Python Flask Application using Beautiful Soup, Selenium, VS Code and other tools by performing the tasks in following order.  
 •	**Dataset**: Extracted data of top rated movies from IMDb using this URL _https://www.imdb.com/chart/top/_ and save it in a CSV file.  
 •	**Description:** Created a Flask web with 3 routes (login, signup & movies), login would accept both GET and POST request methods. Login page with login form has two options username and password while POST request is used to perform login itself.  Signup form have five options email, first name, last name, username and password and stores user data in SQLite database. In case of successful login, movies list is shown to the user in form of HTML table with 3 columns of Rank & Title, Year & IMDb Rating.  
@@ -97,6 +97,8 @@ I am a Data Analyst and passionate about Analysing and Visualizing Data as said,
 •	Python Programming (Pandas, Numpy, Seaborn, Matplot)  
 •	Microsoft Power BI  
 •	Microsoft Excel  
+•	Microsoft Word  
+•	Microsoft Visio  
 •	Tableau  
 •	SQL  
 
