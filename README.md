@@ -10,10 +10,10 @@ I am a Data Analyst and passionate about Analysing and Visualizing Data as said,
 
 ## Projects
 
-### [Factors Affecting the Bike Purchased]()
+### [Factors Affecting the Bike Purchased](Bike_Purchased_Excel_Project.xlsx)
 •	_Software: Microsoft Excel_  
 •	**Objective:** To determine what factors affect the people purchasing a bike.  
-•	**Dataset:** The [dataset]() consists of 1027 records of the people and their different attributes (like they own a house or car, etc.) who have purchased a bike from a certain company or not.  
+•	**Dataset:** The dataset consists of 1027 records of the people and their different attributes (like they own a house or car, etc.) who have purchased a bike from a certain company or not.  
 •	**Description:** Created a separate worksheet to clean and format the data, deleting duplicates and empty rows, correcting spells, using the Text to Column feature and Fill Handle, filtering and changing data format to create and analyse Pivot tables and slicers.  
 •	**Output:** Dashboard that shows visualization of,  
 	Average Income per purchase (Males who purchased bike has high income than of Females who purchased bike)  
@@ -22,7 +22,7 @@ I am a Data Analyst and passionate about Analysing and Visualizing Data as said,
 >> **Skills:** Data Sorting & Cleaning, Pivot Tables, Advanced Conditional Formatting, Graphs and Charts, Slicer, Data Formatting, Manipulate date, time, text, and arrays.  
 
   
-### [Call Center Budget Analysis]()
+### [Call Center Budget Analysis](CallCenterBudgetExcelProject.xlsx)
 •	_Software: Microsoft Excel_  
 •	**Objective:** Examine the budget of the call centre and extract insights on its performance, as well as to identify potential improvements that can be implemented.  
 •	**Dataset:** The dataset is downloaded from ‘Real World Fake Data’ [dataworld](https://data.world/login?next=%2Fmarkbradbourne%2Frwfd-real-world-fake-data%2Fworkspace%2Ffile%3Ffilename%3DCall%2BCenter.csv). This call-center dataset has over 32,900 records of data that describes calls made to various call centres. It includes the ID of the call and many other attributes.  
@@ -38,7 +38,7 @@ I am a Data Analyst and passionate about Analysing and Visualizing Data as said,
   
 
 
-### [Data Specialist Survey Breakdown]()
+### [Data Specialist Survey Breakdown](Data_Specialist_Survey_Breakdown_PowerBI.pbix)
 •	_Software: Microsoft Power BI_  
 •	**Objective:** To determine the average salary and various aspects of a particular job of Data Specialists.
 •	**Dataset:** The non- integrated data is collected through a survey from 5 countries asking different question about their Job, Salary, Gender, Age, and Happiness with Work/Life balance.  
@@ -52,10 +52,10 @@ I am a Data Analyst and passionate about Analysing and Visualizing Data as said,
 
   
 
-### [Financial Data Analysis]()
+### [Financial Data Analysis](FianancialDataAnalysisReport.pbix)
 •	_Software: Microsoft Power BI_  
 •	**Objective:** To generate the Revenue Analysis Report of financial data of a company.  
-•	**Dataset:** The 3264 [data]() values contains all the sales representatives along with their names, gender, transactions, stores and other features from 2019 to 2020.  
+•	**Dataset:** The 3264 [data](FinancialDataAnalysis_DataSet.xlsx) values contains all the sales representatives along with their names, gender, transactions, stores and other features from 2019 to 2020.  
 •	**Description:** Cleaned and filtered the data using DAX and created different measures according to the requirement of the analysis report.  
 •	**Output:** A Revenue Report that shows according to the data,  
 	The line & clustered column chart displaying total revenue & average revenue by country & region.  
@@ -66,13 +66,13 @@ I am a Data Analyst and passionate about Analysing and Visualizing Data as said,
 >>	**Skills:** Power Query, Data Visualization, Power BI DAX, Power BI Visuals/Charts, Visual Analytic.
 
 
-### [Suicide Rates Overview 1960-2016 EDA]()
+### [Suicide Rates Overview 1960-2016 EDA](SuicideRatesOverviewEDA_Python.ipynb)
 •	_Software: Jupyter Notebook (Python)_  
 •	**Objective:**   
 	Analyse the suicide rate of sex, the age groups and generation and plot the rank of suicide rate.  
 	Understand the distribution of the suicide rate by performing Exploratory Data Analysis (EDA).  
 	Analyse the key factors of high suicide rate.  
-•	**Dataset:** The [dataset]() contains data from 100+ countries on the topic of suicide and mental health infrastructure. It was created by extracting the latest data from WHO and combining it into a single dataset.  This compiled dataset pulled from four other datasets linked by time and place, and was built to find signals correlated to increased suicide rates among different states of United States (kaggle dataset).  
+•	**Dataset:** The [dataset](SuicideRatesOverview_Dataset.csv) contains data from 100+ countries on the topic of suicide and mental health infrastructure. It was created by extracting the latest data from WHO and combining it into a single dataset.  This compiled dataset pulled from four other datasets linked by time and place, and was built to find signals correlated to increased suicide rates among different states of United States (kaggle dataset).  
 •	**Description:** Extracted data from csv file. Performed Data Pre-processing, Data Cleaning, Exploratory data analysis (EDA), Data Analysing and Insight Visualization through graphs and charts using Python and its libraries.  
 •	**Output (Insights):**  
 	No matter which year it is, the suicides number of male is about three times higher than of female.   
