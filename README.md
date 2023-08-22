@@ -115,7 +115,7 @@ I am a Data Analyst and passionate about Analysing and Visualizing Data as said,
   Cumulative Grade Point Average (CGPA) : 3.38/4.00
 
 ## Contacts
-- LinkedIn: 
-- Email: umamaahmed85@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/umama-ahmed-4a9718287/
+- Email: umamaahmed85@gmail.com
 
 
