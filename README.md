@@ -104,9 +104,9 @@ I am a Data Analyst and passionate about Analysing and Visualizing Data as said,
 
   
 ## Certificates 
-- [**Excel Basics for Data Analysis**]( https://www.coursera.org/account/accomplishments/certificate/8TL9XUFF7SPZ) by [IBM]( https://www.coursera.org/ibm)
-- [**Data Visualization With Power BI**]( https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Folympus1.mygreatlearning.com%2Fcourse_certificate%2FROGSQPRW) by [Great Learning]( https://www.mygreatlearning.com/)
-- [**SQL for Data Science**]() by [University of California, Davis, Coursera]()
+- [**Excel Basics for Data Analysis**](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) by [IBM]( https://www.coursera.org/ibm)
+- [**Data Visualization With Power BI**](https://www.linkedin.com/posts/umama10_1000-free-courses-with-free-certificates-activity-7097999371039846400--Hsb?utm_source=share&utm_medium=member_desktop) by [Great Learning]( https://www.mygreatlearning.com/)
+- [**SQL for Data Science**]() by [University of California, Davis, Coursera](https://www.coursera.org/learn/sql-for-data-science)
 
 
 ## Education
@@ -116,7 +116,7 @@ I am a Data Analyst and passionate about Analysing and Visualizing Data as said,
 - NED University of Engineering & Technology | _Bachelors of Computer Systems_ 	Karachi, Pakistan | 11.2016 – 10.2020  
   Cumulative Grade Point Average (CGPA) : 3.38/4.00
 
-## Contacts
+## Contact
 - LinkedIn: https://www.linkedin.com/in/umama-ahmed-4a9718287/
 - Email: umamaahmed85@gmail.com
 
