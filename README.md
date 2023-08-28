@@ -104,7 +104,7 @@ I am a Data Analyst and passionate about Analysing and Visualizing Data as said,
 
   
 ## Certificates 
-- [**Excel Basics for Data Analysis**](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) by [IBM]( https://www.coursera.org/ibm)
+- [**Excel Basics for Data Analysis**](https://www.coursera.org/account/accomplishments/verify/8TL9XUFF7SPZ) by [IBM]( https://www.coursera.org/ibm)
 - [**Data Visualization With Power BI**](https://www.linkedin.com/posts/umama10_1000-free-courses-with-free-certificates-activity-7097999371039846400--Hsb?utm_source=share&utm_medium=member_desktop) by [Great Learning]( https://www.mygreatlearning.com/)
 - [**SQL for Data Science**]() by [University of California, Davis, Coursera](https://www.coursera.org/learn/sql-for-data-science)
 
