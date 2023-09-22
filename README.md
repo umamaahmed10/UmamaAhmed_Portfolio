@@ -1,10 +1,10 @@
 # UmamaAhmed_Portfolio
-### Data Analyst  
+### Data Scientist | Data Analyst 
 
 >> Hello! Glad to see you here. This repository keeps track of my personal projects I have worked on. 
 
 ## About Me!
-I am a Data Analyst and passionate about Analysing and Visualizing Data as said, _A picture says more than a thousand words_. I believe the most expensive thing in this world is *Data*, from which I love building cool things! I completed my Masters in _Data Science_ from NED University of Engineering & Technology in Feb, 2023. The thrill of discovering insights from data to solve complex problems and visualize information provides me pride and satisfaction. I am eager and excited to keep learning new methods in a challenging & fast-paced environment.  
+I am a motivated and enthusiastic individual who have strong interest in Data Science and Analytics. I am passionate about Visualizing and Analyzing Data and developed proficiency in Machine Learning and Statistical Modeling. I believe the most expensive thing in this world is *Data*, from which I love building cool things! I completed my Masters in _Data Science_ from NED University of Engineering & Technology in March, 2023. The thrill of discovering insights from data to solve complex problems and visualize information provides me pride and satisfaction. I am seeking opportunities in the data science or analytics field. I am eager and excited to keep learning new methods in a challenging & fast-paced environment and, contribute in real-world challenges.
 
 ***
 
