@@ -19,14 +19,14 @@ Order by 1, 2
 
 
 -- Total Deaths VS Total Cases
--- INSIGHT 1: How many casses are there in this country and how many deaths do they have
+-- INSIGHT 1: How many cases are there in this country and how many deaths do they have
 
 Select location, date, total_cases, new_cases, total_deaths, (total_deaths/total_cases)*100 as DeathPercentage
 From CovidSQLProject.dbo.CovidDeaths
 Order by 1, 2
 
 
--- INSIGHT 2: How many casses are there in Canada and how many deaths do they have
+-- INSIGHT 2: How many cases are there in Canada and how many deaths do they have
 -- shows likelihood of dying if you contract with Covid in your country (My country is Canada)
 
 Select location, date, total_cases, new_cases, total_deaths, (total_deaths/total_cases)*100 as DeathPercentage
