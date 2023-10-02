@@ -109,19 +109,24 @@ I am a motivated and enthusiastic individual who have strong interest in Data Sc
 *** 
 
 **Stack**  
-•	Python Programming (Pandas, Numpy, Seaborn, Matplot)  
-•	Microsoft Power BI  
-•	Microsoft Excel  
-•	Microsoft Word  
-•	Microsoft Visio  
-•	Tableau  
-•	SQL  
+•	Python (pandas, numpy, scipy, scikit-learn, matplotlib)
+•	SQL (SQL Server, PostgreSQL, MySQL), NoSQL (MongoDB) 
+•	Data Science Pipeline (cleansing, wrangling, visualization, statistical analysis, modeling & interpretation)
+•	Database Structures & Architecture, Development, and Management	
+•	Big Data & Machine Learning (Hadoop, Matlab)
+•	Microsoft Power BI, Microsoft Excel
+•	Html, CSS, JavaScript, Linux (Ubuntu), Docker & VMs
+•	Jupyter Notebook, VS Code, RapidMiner
+
+
 
   
 ## Certificates 
+- [**Supervised Machine Learning: Regression and Classification**](https://www.coursera.org/account/accomplishments/verify/W63W8ESGQHY4?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) by [Stanford University, Coursera](https://www.coursera.org/learn/machine-learning)
+- [**SQL for Data Science**](https://coursera.org/share/cc1fea926961d56bf3d5323d83255ffd) by [University of California, Davis, Coursera](https://www.coursera.org/learn/sql-for-data-science)
 - [**Excel Basics for Data Analysis**](https://www.coursera.org/account/accomplishments/verify/8TL9XUFF7SPZ) by [IBM]( https://www.coursera.org/ibm)
 - [**Data Visualization With Power BI**](https://www.linkedin.com/posts/umama10_1000-free-courses-with-free-certificates-activity-7097999371039846400--Hsb?utm_source=share&utm_medium=member_desktop) by [Great Learning]( https://www.mygreatlearning.com/)
-- [**SQL for Data Science**](https://coursera.org/share/cc1fea926961d56bf3d5323d83255ffd) by [University of California, Davis, Coursera](https://www.coursera.org/learn/sql-for-data-science)
+
 
 
 ## Education
